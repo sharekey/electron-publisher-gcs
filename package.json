@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@google-cloud/storage": "^2.2.0",
-    "app-builder-lib": "^20.30.0",
+    "app-builder-lib": "^25.0.0",
     "builder-util": "^7.1.0",
     "electron-publish": "^20.30.0",
     "fs-extra-p": "^4.6.1"
